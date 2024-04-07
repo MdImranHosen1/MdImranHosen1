@@ -5,7 +5,7 @@
 </h1>
 
 # I'm Md Imran Hosen, 
-#### Studing in CSE at Bangabandhu Sheikh Mujibur Rahman Sciecne and Technology University, Gopalganj-8100, Bangladesh.
+#### Graduated in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj-8100, Bangladesh.
 - I'm pationate about C++, Java, JavaScript and React.js.
 - I'm currently learning Node.js
 - I'm competetive programmer.💻
