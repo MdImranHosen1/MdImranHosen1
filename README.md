@@ -4,15 +4,30 @@
   </a>
 </h1>
 
-# I'm Md Imran Hosen, 
-#### Graduated in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj-8100, Bangladesh.
-- I'm pationate about C++, Java, JavaScript and React.js.
-- I'm currently learning Node.js
-- I'm competetive programmer.💻
-- How to reach me: <a href="mailto: imranhosen.bsmrstu@gmail.com">imranhosen.bsmrstu@gmail.com</a>
-- Here is my <a href="https://imran-me.vercel.app/">Portfolio![image](https://github.com/user-attachments/assets/8ea86a4b-bda2-423f-b3ad-f5b13d4f0482)
-/a>
+<style>
+  .profile-text {
+    color: green;
+  }
+  .portfolio-image {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintains aspect ratio */
+  }
+</style>
+
+<div class="profile-text">
+  <h1>I'm Md Imran Hosen,</h1>
+  <h4>Graduated in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj-8100, Bangladesh.</h4>
+  <ul>
+    <li>I'm passionate about C++, Java, JavaScript, and React.js.</li>
+    <li>I'm currently learning Node.js.</li>
+    <li>I'm a competitive programmer.💻</li>
+    <li>How to reach me: <a href="mailto:imranhosen.bsmrstu@gmail.com" style="color:green;">imranhosen.bsmrstu@gmail.com</a></li>
+    <li>Here is my <a href="https://imran-me.vercel.app/" style="color:green;">Portfolio</a>:</li>
+  </ul>
+  <img src="https://github.com/user-attachments/assets/8ea86a4b-bda2-423f-b3ad-f5b13d4f0482" alt="Portfolio Image" class="portfolio-image">
+</div>
 <hr>
+
 
 <h3>🌐 Connect With Me:</h3>
 <h3 style="display:flex">
